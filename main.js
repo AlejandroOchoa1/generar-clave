@@ -48,6 +48,4 @@ function limpiar() {
     document.getElementById("contrasena").value = "";
 }
 
-// caracteres especiales
 
-// validaciones que lleve mayuscual, numero, caracter especial
